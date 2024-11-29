@@ -1,1 +1,12 @@
-[]
+[
+    {
+        "id": 1,
+        "post": "welldone"
+
+    },
+    {
+      "id": 2,
+      "post": "Group 8 CRUD Operations using fs module"
+    }
+    
+]
